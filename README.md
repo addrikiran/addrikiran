@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @addrikiran
-- 👀 I’m interested in ...Java
-- 🌱 I’m currently learning ...C/C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Cybersecurity
+- 🌱 I’m currently learning ... Java Full Stack
+- 📫 How to reach me ... addrikiran@gmail.com
 
 <!---
 addrikiran/addrikiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
