@@ -1,0 +1,69 @@
+ADDRI KIRAN DEY
+9382822098 | addrikiran@gmail.com | www.linkedin.com/in/addrikirandey
+
+Seeking opportunities to apply my technical skills and contribute to innovative solutions. Eager to learn and
+collaborate on impactful projects and technological advancements.
+
+EDUCATION
+2021-2025
+
+Techno International Newtown
+B.Tech | ECE | 8.05
+
+2019-2021
+
+Vidyasagar Vidyapith
+XII(WBCHSE) | Science | 80.8%
+
+2013-2019
+
+Mundamari Ushananda Vidyapith
+X(WBBSE) | General | 86.42%
+
+PROFESSIONAL EXPERIENCE
+Kulturehire
+
+Nov 2024 – Feb 2024
+
+Data Analytics Intern
+
+Demonstrated strong analytical skills by collecting, cleaning, and analyzing data using Excel. Created
+interactive dashboards with Excel and Power BI to present insights.
+Conducted data analysis using SQL to derive actionable insights. Proven ability to adapt to dynamic
+environments with a high level of commitment, enthusiasm, and work ethic.
+
+PROJECTS
+
+AUTOPARK
+Developed AUTOPARK, an IoT-based smart parking system using NodeMCU ESP8266, IR sensors, and
+Blynk API for real-time monitoring of parking slots.
+Designed a user-friendly web interface for registration, generating QR codes for secure access to parking
+availability and status updates.
+Integrated hardware components with cloud-based data processing to streamline parking management,
+enhancing user experience and reducing congestion in urban areas.
+
+UNDERSTANDING CAREER ASPIRATIONS OF GEN-Z
+Conducted business analysis on Gen Z career aspirations as part of KultureHire Learnternship.
+Collected, cleaned, and analyzed data using SQL and Excel; developed insightful dashboards in Power BI.
+Presented findings through a focused, visual data story to highlight key trends and actionable insights.
+
+SKILLS
+
+Technical Skills
+Java(Basic)
+SQL(Basic)
+Object Oriented Programming with Java
+
+Soft Skills
+Teamwork
+Adaptibilty
+Time Management
+
+CERTIFICATIONS
+•
+•
+
+Core Java | Internshala Training
+Data Analytics | Trainity
+
+
